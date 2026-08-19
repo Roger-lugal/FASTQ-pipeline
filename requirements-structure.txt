@@ -1,0 +1,10 @@
+# ESMFold inference
+fair-esm
+# PyTorch installation should match the target CPU/CUDA environment.
+torch
+# SASA and residue contact analysis
+biopython
+# Interactive R&D dashboard
+streamlit
+py3Dmol
+pandas
